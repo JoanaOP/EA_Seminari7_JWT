@@ -1,3 +1,3 @@
-# EA_NodeJS_Exercici
+# Seminari 7
+Exercici proposat de JWT
 
-S'ha afegit el model Evaluation amb els seus corresponents endpoints
